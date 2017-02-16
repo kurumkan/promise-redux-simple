@@ -1,6 +1,6 @@
 # Promise redux middleware
 
-npm install --save promise-redux-simple
+`npm install --save promise-redux-simple`
 
 ##Usage
 
@@ -52,6 +52,6 @@ export default function(state=[],action){
 }
 ```
 
----------
+*****
 This package has been created only for test purposes. 
 Nevertheless it can be used in real projects!
